@@ -33,6 +33,6 @@ The project implements an **ensemble learning** approach by combining:
 ## 🔧 Installation & Usage
 ### 1️⃣ Setup
 ```bash
-git clone https://github.com/your-username/Pneumonia-Detection-CNN-MobileNet.git
+git clone https://github.com/Venkyyy_98/Pneumonia-Detection-Project.git
 cd Pneumonia-Detection-CNN-MobileNet
 pip install -r requirements.txt
